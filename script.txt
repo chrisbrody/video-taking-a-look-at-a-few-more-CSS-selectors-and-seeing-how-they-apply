@@ -1,0 +1,14 @@
+#CSS_SELECTOR 1.1 - Intro to css selector
+
+
+
+
+#VIDEO_TEMPLATE 1.1 - Intro to
+Hey Chris from Codify Academy here, in this video we're gonna look at some more CSS selectors, to try and find out what HTML elements they will style.
+
+I will include a link to this code on GitHub in the video description, so be sure to check it out, clone it and mess around.
+
+Here is how the site looks with out any CSS. so keep that image in your mind.
+
+Code for CSS selectors - https://github.com/chrisbrody/CSS-selector-review-1
+CSS selector Quiz - https://codepen.io/IrrelevantEvan/full/MvRKPR/

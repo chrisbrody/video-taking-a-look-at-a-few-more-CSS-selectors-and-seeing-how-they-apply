@@ -1,0 +1,105 @@
+/*
+  #1 select by element / type
+*/
+* {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+div {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+h4 {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+img {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+/*
+  #2 select by class attribute value
+*/
+.box {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+.container, .abc {
+  background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+}
+
+/*
+  #3 select by id attribute value
+*/
+#cta {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+/*
+  #4 combined selectors
+*/
+.box img {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+#cta span {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+div h1 {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+div div button {
+  /*background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;*/
+}
+
+.box .container div #title {
+  background-color: tomato;
+  border: 5px solid #9ab1ea;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+}
